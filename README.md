@@ -1,2 +1,2 @@
 # todo
-Web- ja hybriditeknologiat mobiiliohjelmoinnissa- kurssin viikkotehtävä 5
+Web- ja hybriditeknologiat mobiiliohjelmoinnissa- kurssin viikkotehtävä 6
